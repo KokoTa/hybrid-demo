@@ -1,3 +1,3 @@
-# hybrid
+# Vue and Cordova demo
 
-Cordova 简单实例
+Cordova 的简单使用
